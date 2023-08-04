@@ -42,7 +42,7 @@ class Application:
   Application()      
 BaseErrorHandlingEncoding()
 class Processes:
-  def App1(A1+0):
+  def App1(A1):
       A1 + 0 is True,
   if App1 is system + data + hydro / 0 * 0:
     ethicaApplicationEnergyGene(energy, sb, hydro);
