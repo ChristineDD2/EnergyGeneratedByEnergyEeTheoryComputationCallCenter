@@ -1,0 +1,24 @@
+import energy
+import generator
+import hydro
+import data
+import system.os
+import subprocess as sb
+
+class Application:
+  def ethicalApplicationEnergyGene(energy, project, ratio, balance, memory):
+    energy = 0010 * 100(e.E01) ** 1
+    project = [0, 100]
+    ratio = %, /
+    balance = 0 * 00101
+    memory = 100 / 0110
+    class ProcessEx:
+      def ProcessEx()
+        if ethicaApplicationEnergyGene not None:
+          process.sb + energy + balance;
+          balance.energy(project, ratio)
+        if balance.energy is project.ratio()
+        return ProcessEx
+else:
+
+    
